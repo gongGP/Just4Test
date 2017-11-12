@@ -52,4 +52,4 @@
 ![][1]
 [1]: http://latex.codecogs.com/gif.latex?\prod%20\(n_{i}\)+1
 
-* 引用自简书 *  ** [http://www.jianshu.com/p/q81RER](http://www.jianshu.com/p/q81RER) **
+*引用自简书*  **[http://www.jianshu.com/p/q81RER](http://www.jianshu.com/p/q81RER)**
