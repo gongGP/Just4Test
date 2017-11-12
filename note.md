@@ -48,8 +48,8 @@
 | What's the weather like? | Whate are you going to do? | How much is it? | What do I look? |
 | You | look | great | lol |
  
-## 显示链接中带括号的图片
+## 显示链接中带括号的图片(无效)
 ![][1]
 [1]: http://latex.codecogs.com/gif.latex?\prod%20\(n_{i}\)+1
 
-* 引用自简书 * **[http://www.jianshu.com/p/q81RER](http://www.jianshu.com/p/q81RER)
+* 引用自简书 *  ** [http://www.jianshu.com/p/q81RER](http://www.jianshu.com/p/q81RER) **
